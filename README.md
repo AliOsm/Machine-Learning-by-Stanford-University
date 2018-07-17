@@ -6,7 +6,6 @@ Feel free to browse the code in this repository after you do your best to solve 
 ## Contents
 - Lectures Slides
 - Solutions of programming assignments
-- Solutions of quizzes
 
 ## References
 [Machine Learning - Stanford University - Coursera](https://www.coursera.org/learn/machine-learning)
